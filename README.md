@@ -1,4 +1,12 @@
-## Hi there 👋
+## DATA SCIENTIST
+
+### EDUCATION
+
+### WORK EXPERIENCE
+
+### PROJECTS
+
+
 
 <!--
 **cathytukei/cathytukei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
