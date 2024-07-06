@@ -10,7 +10,7 @@
 <img src="assets/student.jpeg" height="70"> Data Science student @ Hyperion Dev (March 2024 - Present)
 Skills: Python, R, Natural language processing using SpaCy, Excel, Decision Trees, Data Visualisation
 
-<img src="assets/bhn ca.jpeg" height="50"> Faster Diagnosis Nurse - Breast, Head and Neck Cancers @ East Sussex Healthcare NHS Trust (Jun 2024 - Present)
+<img src="assets/bhn ca.jpeg" height="70"> Faster Diagnosis Nurse - Breast, Head and Neck Cancers @ East Sussex Healthcare NHS Trust (Jun 2024 - Present)
 Skills: Focused Physical Examination - conducting specialist clinics · Advanced communication skills - Breaking Bad News · Attending Cancer MDTs - working collaboratively in an interdisciplinary team · Cancer-Specific Knowledge - ordering relevant diagnostic tests · Conducting Audits
 
 <img src="assets/bowel cancer screening.jpeg" height ="70"> Specialist Screening Practitioner - Sussex Bowel Cancer Screening Program @ University Hospitals Sussex (Sep 2022 - May 2024)
