@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Student
 ### Technical Skills: Python, Neural Networks, Decision trees, Excel, Natural Language Processing, Image Processing, Data Analyisis, Data Visualisation
 ### Education
 · Skills Bootcamp, Data Science Fundamentals | HyperionDev (July 2024)
