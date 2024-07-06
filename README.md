@@ -16,7 +16,7 @@ Skills: Focused Physical Examination - conducting specialist clinics · Advanced
 <img src="assets/bowel cancer screening.jpeg" height ="70"> Specialist Screening Practitioner - Sussex Bowel Cancer Screening Program @ University Hospitals Sussex (Sep 2022 - May 2024)
 Skills: Focused Physical Examination - conducting SSP clinics · Advanced communication skills - Breaking Bad News · Cancer-Specific Knowledge - ordering relevant diagnostic tests · Attending Cancer MDTs - working collaboratively in an interdisciplinary team · Conducting Audits
 
-Endoscopy Nurse @ East Sussex Healthcare NHS Trust (Mar 2021 - Oct 2022) 
+<img src="assets/images (2).jpeg" height="70"> Endoscopy Nurse @ East Sussex Healthcare NHS Trust (Mar 2021 - Oct 2022) 
 Skills: Endoscopic Procedures · Teamwork · Compassion and Empathy · Pharmacology · Aseptic Technique · Instrument CareSkills: Endoscopic Procedures · Teamwork · Compassion and Empathy · Pharmacology · Aseptic Technique · Instrument Care
 
 Registered Nurse Emergency Department @ East Sussex Healthcare NHS Trust (Dec 2019 - Feb 2021)
