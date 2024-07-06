@@ -25,5 +25,5 @@ Skills: Endoscopic Procedures · Teamwork · Compassion and Empathy · Pharmacol
 <img src="assets/pngtree-medical-emergency-nursing-120-png-image_4397393.jpg" height="70"> Registered Nurse Emergency Department @ East Sussex Healthcare NHS Trust (Dec 2019 - Feb 2021)
 Skills: Emergency Nursing · Triage Nursing · Urgent Care Nursing
 
-<img src=""> Program Officer @ KOICA (Jan 2015 - Nov 2019)
+<img src="assets/Handing-over-of-survival-kits-and-safety-equipment-by-KOICA-to-MPNSCS.png" height="70"> Program Officer @ KOICA (Jan 2015 - Nov 2019)
 Skills: Grant Management · Procurement · Organising Community outreaches · Report Writing · Research Skills
