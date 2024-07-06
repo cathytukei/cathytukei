@@ -22,8 +22,8 @@ Skills: Focused Physical Examination - conducting SSP clinics · Advanced commun
 <img src="assets/images (2).jpeg" height="70"> Endoscopy Nurse @ East Sussex Healthcare NHS Trust (Mar 2021 - Oct 2022) 
 Skills: Endoscopic Procedures · Teamwork · Compassion and Empathy · Pharmacology · Aseptic Technique · Instrument CareSkills: Endoscopic Procedures · Teamwork · Compassion and Empathy · Pharmacology · Aseptic Technique · Instrument Care
 
-Registered Nurse Emergency Department @ East Sussex Healthcare NHS Trust (Dec 2019 - Feb 2021)
+<img src="assets/pngtree-medical-emergency-nursing-120-png-image_4397393.jpg" height="70"> Registered Nurse Emergency Department @ East Sussex Healthcare NHS Trust (Dec 2019 - Feb 2021)
 Skills: Emergency Nursing · Triage Nursing · Urgent Care Nursing
 
-Program Officer @ KOICA (Jan 2015 - Nov 2019)
+<img src=""> Program Officer @ KOICA (Jan 2015 - Nov 2019)
 Skills: Grant Management · Procurement · Organising Community outreaches · Report Writing · Research Skills
