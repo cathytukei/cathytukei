@@ -6,6 +6,9 @@
 · Master's degree, Public Health | Makerere University (January 2022)
 · Postgraduate Diploma, Monitoring and Evaluation | Uganda Management Institute (August 2017)
 · Bachelor of Science, Nursing | Makerere University (January 2014)
+### Certificates
+Introduction to coding MOOC @ Code First GirlsCode First Girls
+(Nov 2023 - Dec 2023) Skills: Python (Programming Language)
 ### Work Experience
 <img src="assets/student.jpeg" height="70"> Data Science student @ Hyperion Dev (March 2024 - Present)
 Skills: Python, R, Natural language processing using SpaCy, Excel, Decision Trees, Data Visualisation
