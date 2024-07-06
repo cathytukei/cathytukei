@@ -7,7 +7,7 @@
 · Postgraduate Diploma, Monitoring and Evaluation | Uganda Management Institute (August 2017)
 · Bachelor of Science, Nursing | Makerere University (January 2014)
 ### Work Experience
-<img src="assets/student.jpeg" height "100"> Data Science student @ Hyperion Dev (March 2024 - Present)
+<img src="assets/student.jpeg" height="100"> Data Science student @ Hyperion Dev (March 2024 - Present)
 Skills: Python, R, Natural language processing using SpaCy, Excel, Decision Trees, Data Visualisation
 
 Faster Diagnosis Nurse - Breast, Head and Neck Cancers @ East Sussex Healthcare NHS Trust (Jun 2024 - Present)
