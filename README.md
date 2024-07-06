@@ -1,5 +1,5 @@
 # Data Scientist
-### Technical Skills: Python, SQL, R, MATLAB, Excel, Natural Language Processing
+### Technical Skills: Python, Neural Networks, Decision trees, Excel, Natural Language Processing, Image Processing, Data ANalyisis, Data Visualisation
 ### Education
 Skills Bootcamp, Data Science Fundamentals | HyperionDev (July 2024)
 Graduate certificate, Professional Development in Health and Social Care | Universtiy of Plymouth (February 2024)
