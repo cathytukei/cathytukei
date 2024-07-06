@@ -13,7 +13,7 @@ Skills: Python, R, Natural language processing using SpaCy, Excel, Decision Tree
 Faster Diagnosis Nurse - Breast, Head and Neck Cancers @ East Sussex Healthcare NHS Trust (Jun 2024 - Present)
 Skills: Focused Physical Examination - conducting specialist clinics · Advanced communication skills - Breaking Bad News · Attending Cancer MDTs - working collaboratively in an interdisciplinary team · Cancer-Specific Knowledge - ordering relevant diagnostic tests · Conducting Audits
 
-Specialist Screening Practitioner - Sussex Bowel Cancer Screening Program @ University Hospitals Sussex (Sep 2022 - May 2024)
+<img src="assets/bowel cancer screening.jpeg" height ="70"> Specialist Screening Practitioner - Sussex Bowel Cancer Screening Program @ University Hospitals Sussex (Sep 2022 - May 2024)
 Skills: Focused Physical Examination - conducting SSP clinics · Advanced communication skills - Breaking Bad News · Cancer-Specific Knowledge - ordering relevant diagnostic tests · Attending Cancer MDTs - working collaboratively in an interdisciplinary team · Conducting Audits
 
 Endoscopy Nurse @ East Sussex Healthcare NHS Trust (Mar 2021 - Oct 2022) 
