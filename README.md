@@ -1,11 +1,13 @@
 # Data Scientist
-### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### Technical Skills: Python, SQL, R, MATLAB, Excel, Natural Language Processing
 ### Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+Skills Bootcamp, Data Science Fundamentals | HyperionDev (July 2024)
+Graduate certificate, Professional Development in Health and Social Care | Universtiy of Plymouth (February 2024)
+Master's degree, Public Health | Makerere University (January 2022)
+Postgraduate Diploma, Monitoring and Evaluation | Uganda Management Institute (August 2017)
+Bachelor of Science, Nursing | Makerere University (January 2014)
 ### Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+Data Science student @ Hyperion Dev (March 2024 - Present)
 
 Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
