@@ -1,11 +1,11 @@
 # Data Scientist
-### Technical Skills: Python, Neural Networks, Decision trees, Excel, Natural Language Processing, Image Processing, Data ANalyisis, Data Visualisation
+### Technical Skills: Python, Neural Networks, Decision trees, Excel, Natural Language Processing, Image Processing, Data Analyisis, Data Visualisation
 ### Education
-Skills Bootcamp, Data Science Fundamentals | HyperionDev (July 2024)
-Graduate certificate, Professional Development in Health and Social Care | Universtiy of Plymouth (February 2024)
-Master's degree, Public Health | Makerere University (January 2022)
-Postgraduate Diploma, Monitoring and Evaluation | Uganda Management Institute (August 2017)
-Bachelor of Science, Nursing | Makerere University (January 2014)
+· Skills Bootcamp, Data Science Fundamentals | HyperionDev (July 2024)
+· Graduate certificate, Professional Development in Health and Social Care | Universtiy of Plymouth (February 2024)
+· Master's degree, Public Health | Makerere University (January 2022)
+· Postgraduate Diploma, Monitoring and Evaluation | Uganda Management Institute (August 2017)
+· Bachelor of Science, Nursing | Makerere University (January 2014)
 ### Work Experience
 Data Science student @ Hyperion Dev (March 2024 - Present)
 Skills: Python, R, Natural language processing using SpaCy, Excel, Decision Trees, Data Visualisation
